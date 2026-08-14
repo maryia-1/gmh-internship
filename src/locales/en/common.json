@@ -1,0 +1,307 @@
+{
+  "navbar": {
+    "home": "Home",
+    "about": "About",
+    "services": "Services",
+    "engineering":"Engineering Services",
+    "consulting":"Consulting & HR support",
+    "references": "References",
+    "contact": "Contact",
+    "join": "Join Us"
+  },
+
+  "hero": {
+    "title1": "Powering Progress",
+    "title2":"through clean engineering",
+    "subtitle": "GMH delivers engineering, procurement, and construction solutions across energy, buildings, oil &amp; gas, and process industries, combining technical excellence with a commitment to sustainability."
+  },
+
+  "about": {
+    "sub": "About Us",
+    "title": "Engineering excellence for a sustainable tomorrow",
+    "p1":"Founded in 2023, we are an international multidisciplinary engineering partner providing innovative solutions for industrial plants, infrastructure, and buildings.",
+    "p2":"By combining technical excellence with a practical approach, we deliver projects efficiently, on schedule, within budget, and to the highest international standards.",
+    "button":"Learn More About Us",
+    "stat1":"180+ Projects",
+    "stat1desc":"Delivered by our collaborators, partners and our Management Team to more than 25 countries.",
+    "stat2":"98+ Engineering Professionals",
+    "stat2desc":"with our Associate Partners for Basic & Detailed Engineering.",
+    "stat3":"International Service",
+    "stat3desc":"We operate in both domestic and international markets through local presence and global resourcing"
+  },
+  "engineeringsection":{
+    "sub":"Our Services",
+    "title":"Engineering Services",
+    "p1":"Comprehensive engineering solutions across energy, buildings, oil & gas and industrial process sectors, delivered by one multidisciplinary team.",
+    "discplines":{
+      "p1":"Energy",
+      "p2":"Buidlings",
+      "p3":"Oil & Gas",
+      "p4":"Process"
+    },
+    "button":"Learn More"
+
+  },
+  "consulting":{
+    "title":"Consulting and HR Support Services",
+    "subtitle":"In-depth knowledge of the entire documentation cycle, fully compliant with European regulations.",
+    "discplines":{
+      "p1":"Documentation Management & Control",
+      "p2":"Product Qualification",
+      "p3":"Recruitment & HR Support",
+      "p4":"O&M Management"
+    },
+    "button":"Learn More"
+
+  },
+  "success_stories":{
+    "sub": "References",
+    "title": "Our Recent Projects",
+    "subtitle":" A selection of engineering projects delivered across Europe and Africa.",
+    "button":"View All References"
+  },
+
+  "offices":{
+    "sub":"Global Presence",
+    "title":"Supporting projects across Europe & Africa",
+    "subtitle":" Through our offices and strategic partnerships, GMH delivers multidisciplinary engineering solutions while maintaining close collaboration with our clients across international markets.",
+    "p0":"International Offices",
+    "p1": "Operations across",
+    "p2":"Europe & Africa",
+    "p3":"Local delivery with international expertise",
+    "sub2":"Trusted by",
+    "title2":"Clients & Industry Partners",
+    "subtitle2":"Our management team, collaborators and engineering partners have delivered projects for leading international owners, EPC contractors and industrial operators across Europe, Africa and the Middle East."
+  },
+
+  "join":{
+    "sub":"Join GMH",
+    "title":"Careers & Partnerships",
+    "subtitle":" Whether you're looking to build your engineering career or collaborate on multidisciplinary projects, GMH offers opportunities to grow, innovate and create lasting partnerships across Europe and Africa.",
+    "careers":"Careers",
+    "careertitle":"Build your career with GMH",
+    "careersub":" Join a multidisciplinary engineering team delivering projects across Europe and Africa while developing your career in an international environment.",
+    "career1":"Collaborative Teams",
+    "career1desc":"Work alongside experienced professionals",
+    "career2":"International Projects",
+    "career2desc":"Europe, Africa and beyond",
+    "career3":"Continuous Growth",
+    "career3desc":"Expand your technical expertise",
+    "careerbutton":"Learn more",
+    "collaborate":"Collaborate ",
+    "collaboratetitle":"Partner with GMH",
+    "collaboratesub":"  Work with our multidisciplinary teams to deliver engineering, EPC and consulting services for complex infrastructure projects.",
+    "collaborate1":"Engineering Expertise",
+    "collaborate1desc":"Access to a multidisciplinary team",
+    "collaborate2":"Flexible Partnerships",
+    "collaborate2desc":"From consulting to EPC delivery",
+    "collaborate3":"International Network",
+    "collaborate3desc":"Collaborate across Europe and Africa",
+    "collaboratebutton":"Learn More"
+
+  },
+
+  "aboutus":{
+    "sub":"About GMH",
+    "title1":"Engineering Excellence ",
+    "title2":"Built on Experience",
+    "p1":"GMH Engineering Solutions provides multidisciplinary engineering, consulting and project management services supporting industrial, infrastructure and energy projects across Europe and Africa.",
+    "chairman":"Chairman’s Message",
+    "chairmandesc1":" At GMH, our vision centers on continuous excellence, aiming to be your professional, passionate, and nimble partner in realizing strategic business and sustainability goals. Our mission is rooted in the expertise of our devoted team, offering comprehensive solutions for industrial plants, infrastructures, and buildings, ranging from singular projects to extensive business process outsourcing solutions.",
+    "chairmandesc2":"With over 25 years of experience in Multidiscipline Engineering and Operation Management overseeing 35+ industrial projects, I bring a customer-oriented approach and strong technical knowledge to ensure our commitment to excellence and effective interfaces management. Explore GMH Engineering Solutions, where innovation and client satisfaction converge for a future of unparalleled success.",
+    "chairmandesc3":" Our multidisciplinary teams continue to support industries across Europe and Africa by transforming complex engineering challenges into successful project outcomes.",
+    "bottomchairman":"Chairman",
+    "vision":"Our Vision",
+    "visiontitle":" Building a sustainable engineering future",
+    "visiondesc1":" Our vision is to become a trusted international engineering partner recognised for technical excellence, sustainable   innovation and long-term client relationships. We strive to help industries successfully navigate increasingly complex engineering   challenges while contributing to a safer and more sustainable future.",
+    "visiondesc2":" We aspire to continually enhance our expertise, nurturing our reputation as a professional, passionate, and nimble partner. Through these qualities, we dedicate ourselves to assisting our clients in the realization of their strategic business and sustainability objectives.",
+    "approach":"Our Approach",
+    "approachtitle":"How we deliver every project"
+  },
+
+  "engineering":{
+    "sub":"Engineering Services",
+    "title":"Comprehensive Engineering Solutions",
+    "subtitle1":"At GMH Engineering Solutions, we provide multidisciplinary engineering and consultancy services covering industrial plants, infrastructure and buildings with a strong international focus.",
+    "subtitle2": " Backed by over 25 years of engineering experience, our teams deliver innovative, practical and sustainable solutions across Europe,  Africa and the Middle East.",
+    "subtitle3":" We combine technical excellence with cost-effective delivery, helping clients execute projects safely, efficiently and to the highest international standards.",
+    "industriessub":"Industries",
+    "industries":"Markets We Serve",
+    "whypartner":"Why Partner with GMH",
+    "whypartnertitle":"Engineering expertise backed by international experience",
+    "whypartnerdesc":"Combining multidisciplinary engineering, project management and operational excellence to deliver reliable solutions throughout the entire project lifecycle.",
+    "p1":"Proven Sucess",
+    "p1desc":"Successfully delivering multidisciplinary engineering projects across Europe and Africa for industrial and infrastructure clients.",
+    "p2":"Tailored Solutions",
+    "p2desc": "Every engineering solution is developed around your technical, operational and commercial objectives.",
+    "p3":"Adaptable Operational Management",
+    "p3desc": "We integrate seamlessly into projects and provide support at every stage of the engineering lifecycle.",
+    "p4":"Excellence in Project Management",
+    "p4desc":  "Meticulous planning and execution ensuring schedules, budgets and quality standards are consistently achieved.",
+    
+    "component":{
+      "title":"Component Engineering",
+      "p1":"ASME BP&V Section III evaluations & qualification",
+      "p2":"Manufacturing & field deviation notice (DN) reconciliation",
+      "p3":"Generic & plant-specific design summary reports",
+      "p4":"Operating plant upgrades — Evaluations & qualification"
+    },
+    "civil":{
+      "title":"Civil & Structural",
+      "p1":  "Structural layout & GA (MicroStation, AutoCAD)",
+      "p2":"Structural analysis & design (GTStrudl)",
+      "p3":"RCC & steel structure analysis",
+      "p4":"Static, seismic & time history analysis",
+      "p5":"3D modelling (Inventor, PDS, Tekla)",
+      "p6":"Structural, fabrication & detail drawings",
+      "p7":"CSS, tie-rod & RSA calculations"
+    },
+    "piping":{
+      "title":"Piping",
+      "p1":"Pipe stress analysis — Category I & II piping",
+      "p2":"Pipe routing & isometric drawings",
+      "p3":"Static & dynamic analysis",
+      "p4":"600+ PLRs delivered",
+      "p5":"Piping as-built reconciliation reports",
+      "p6":"System reconciliation design reports"
+    },
+    "electrical":{
+      "title":"Electrical",
+      "p1":"Panel engineering & component selection",
+      "p2":"Harness & schematics",
+      "p3":"Manufacturing drawings",
+      "p4":"Combustibility analysis",
+      "p5":"Electrical generators",
+      "p6":"Cable tray, earthing & lightning protection layouts"
+    },
+    "mechanical": {
+      "title":"Mechanical",
+      "p1":"ASME design by analysis",
+      "p2":"Static & dynamic analysis for equipment & supports",
+      "p3":"ANSYS classic automation (APDL macros)",
+      "p4":"Thermo-structural analysis & CFD",
+      "p5":"Manufacturing & field deviation dispositions",
+      "p6":"GA & fabrication drawings"
+    },
+    "intrumentation": {
+      "title": "Instrumentation & Controls",
+      "p1":"Process & field instrumentation",
+      "p2":"Application & control system engineering",
+      "p3":"Testing & validation",
+      "p4":"Panel manufacturing",
+      "p5":"Non-safety hardware testing"
+  },
+  "safety":{
+    "title":"Safety & Risk Management",
+    "p1":"Fire protection system design (sprinklers, dry/wet networks)",
+    "p2":"Fire water infrastructure (tanks, pumps, valve stations)",
+    "p3":"Passive protection upgrades (thermal barriers, panel reinforcement)",
+    "p4":"FM Global, NFPA & APSAD compliance",
+    "p5":"Safety engineering — cold storage, food, oil & gas, critical facilities",
+    "p6":"Risk mitigation & FM-approved insurance alignment",
+    "p7":"Installation & commissioning"
+  },
+
+  "digital":{
+    "title":"Digital Engineering (BIM)",
+    "p1":"Advanced 3D project modeling and visualization",
+    "p2":"Multidisciplinary design coordination",
+    "p3":"Intelligent clash detection and conflict resolution",
+    "p4":"Construction sequencing and cost integration (4D & 5D BIM)",
+    "p5":"Accurate documentation throughout the project lifecycle"
+  },
+  
+  "sectors":{
+    "p1":"Plant Engineering",
+    "p1desc":"Expertise in optimizing the engineering of industrial plants for enhanced efficiency and performance",
+    "p2":"Infrastructure",
+    "p2desc":"Proficiency in designing and managing critical infrastructure projects to meet modern demands" ,
+    "p3":"Residential",
+    "p3desc":"A deep understanding of the complexities of residential projects, from conception to completion",
+    "p4":"Energy Transition",
+    "p4desc":"A dedicated focus on facilitating the transition to sustainable and renewable energy sources"
+  }
+},
+  "consultingservices":{
+    "sub":"Consulting Services",
+    "title":"Consulting and HR Support",
+    "subtitle":"At GMH Engineering Solutions, we provide tailored Consulting & HR Support services that connect businesses with the right engineering talent for every project. Whether you need flexible staffing, specialized expertise, or additional project resources, our experienced professionals are ready to support brownfield and greenfield projects worldwide.",
+    "recruitmentsub":"HR Services",
+    "recruitment":"Recruitment Solutions Tailored to Your Needs",
+    "recruitmentdesc1":"We provide end-to-end recruitment solutions, from understanding your staffing needs to sourcing, evaluating, and presenting highly qualified candidates. Our team manages screening, interviews, reference checks, administrative verification, and offers expert guidance throughout the hiring process to ensure the right talent for your business.",
+    "recruitmentdesc2":" Whether you are in need of flexible staffing solutions, specialized non-core competence experts, or facing resource availability challenges, GMH stands as the definitive answer. Our extensive roster of experts, spanning from feed engineering to on-site support services, caters to both brownfield and greenfield projects across the globe.",
+    "documentationsub":"Consulting Services",
+    "documentation":"Technical Documentation Management",
+    "documentationdesc1":" We provide end-to-end recruitment solutions, from understanding your staffing needs to sourcing, evaluating, and presenting highly qualified candidates. Our team manages screening, interviews, reference checks, administrative verification, and offers expert guidance throughout the hiring process to ensure the right talent for your business.",
+    "teamsub":"Our Team",
+    "teamtitle":"A multidisciplinary engineering team",
+    "teamp1":"Project Managers",
+    "teamp2":"Process Assistants",
+    "teamp3":"Designers and Draftsmen",
+    "teamp4":"Site Managers",
+    "teamp5":"Supervisors",
+    "teamp6":"QHSE Managers and Leaders",
+    "teamp7":"Precommissioning and Commissioning Engineers",
+    "teamdesc":" We provide technical assistance by augmenting your existing team with GMH technicians, designers, engineers, and multidisciplinary engineering experts. Our flexibility knows no bounds, allowing us to work seamlessly at your premises, GMH facilities, or a hybrid combination of both. You can count on our project managers and experts to be where you need them, while our designers work from GMH premises, ensuring optimal project coordination and execution",
+    "sectors":{
+      "p1":"Documentation Management",
+      "p1desc":"• Developing and optimizing documentation processes\n • Designing and implementing robust documentation structures\n • Compiling tailored documentation packages for each project phase",
+      "p2":"Documentation Control",
+      "p2desc":"• Managing document deliveries and transmittals\n • Verifying and validating document metadata\n • Ensuring strict adherence to established processes and requirements",
+      "p3":"Product Qualification",
+      "p3desc":"• Developing construction plans and suitability analyses\n • Participating in Factory Acceptance Tests (FAT) and Construction Inspections (CI) for selected suppliers, components, and structures. \n • Preparing key qualification documents, including Verification & Validation Plans, Qualification Plans, and Requirement Spe",
+      "p4":"O&M Management",
+      "p4desc":"• Developing comprehensive materials such as operational instructions, spare parts catalogues, commissioning and installation manuals, and service manuals, tailored to project scope \n • Preparing detailed commissioning, installation, maintenance, and service manuals \n • All documentation produced by specialized technical writers, in close collaboration with the design team"
+    }
+  },
+
+   "references":{
+    "sub":"Projects",
+    "title":"Our References",
+    "desc":"Over the years, GMH Engineering Solutions and its leadership have contributed to the successful execution of more than 180 engineering projects across 25+ countries.",
+    "desc1":"From renewable energy and industrial facilities to infrastructure and process engineering, our references reflect a commitment to technical excellence, practical innovation, and long-term value for our clients worldwide."
+   },
+
+   "joinus":{
+    "sub":"Careers",
+    "title":"Join GMH Engineering Solutions",
+    "desc":" Become part of an international engineering team delivering sustainable solutions across energy, industrial, and infrastructure sectors.",
+    "desc1":"We are always looking for talented professionals who share our commitment to technical excellence and long-term partnerships.",
+    "whygmhsub":"Why Join GMH",
+    "whygmhtitle":"Build your career with a multdisciplinary engineering team.",
+    "whygmhdesc":"At GMH Engineering Solutions, our people are at the heart of every successful project. We provide opportunities to work on challenging international projects while continuously developing your technical expertise.",
+    "whygmhp1":"Work on international engineering projects across Europe and Africa.",
+    "whygmhp2":"Collaborate with experienced multdiscplinary engineering teams",
+    "whygmhp3":"Develop expertise across Energy, Buildings, Process and Industrial sectors",
+    "whygmhp4":"Grow through technical development while contributing to sustainable projects",
+    "vacanciessub":"Oppurtunities",
+    "vacanciestitle":"Current Vacancies",
+    "vacanciesdesc":"Explore our current career opportunities. New positions are published regularly as our projects continue to grow.",
+    "application":"Application",
+    "applicationtitle":"Apply Now",
+    "applicationdesc1":" We welcome applications from experienced professionals and emerging talent who are eager to contribute to challenging engineering projects across international markets. ",
+    "applicationdesc2":"To express your interest in joining GMH Engineering Solutions, please email your CV together with a brief introduction to our recruitment team.",
+    "applicationsub":"We look forward to hearing from you"
+  },
+
+  "contact":{
+    "sub":"Contact",
+    "title":"Let's Build Something Together",
+    "desc": "Whether you're planning a new engineering project, looking for a trusted technical partner, or seeking specialist engineering expertise, we'd be pleased to hear from you.",
+    "messagetitle":"Send us a message",
+    "messagedesc":"We'd love to discuss your project or answer any questions",
+    "firstname":"First Name",
+    "lastname":"Last Name",
+    "company":"Company",
+    "email":"Email",
+    "phone":"Phone",
+    "subject":"Subject",
+    "projectdesc":"Tell us about your project...",
+    "button":"Send Message",
+    "contactinfo":"Contact Information",
+    "contactemail":"Email",
+    "contactphone":"Phone",
+    "linkedln":"Follow GMH Engineering Solutions",
+    "toastnotif":"Message sent successfully, Thank you!"
+  }
+}
